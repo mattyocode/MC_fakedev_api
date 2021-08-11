@@ -1,0 +1,57 @@
+{
+  "options": {
+    "genre": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi",
+      "Thriller",
+      "Drama",
+      "History",
+      "War",
+      "Crime",
+      "Action",
+      "Biography",
+      "Adventure",
+      "Mystery",
+      "Romance",
+      "Family",
+      "Fantasy",
+      "Animation",
+      "Musical",
+      "Western",
+      "Documentary",
+      "Sport",
+      "Film-Noir"
+    ],
+
+    "decade": {
+      "optionsArray": [
+        "Pre-60s",
+        "60s",
+        "70s",
+        "80s",
+        "90s",
+        "00s",
+        "10s",
+        "20s"
+      ],
+      "optionsLong": [
+        "Pre-1960s",
+        "1960s",
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s",
+        "2020s"
+      ],
+      "defaultMin": "70s",
+      "defaultMax": "20s"
+    },
+    "runtime": {
+      "optionsArray": ["Short", "75m", "1h30", "1h45", "2h", "2h30", "Long"],
+      "defaultMin": "75m",
+      "defaultMax": "2h"
+    }
+  }
+}
