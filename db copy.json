@@ -435,6 +435,30 @@
       ]
     },
     {
+      "imdbid": "tt0335266",
+      "title": "Lost in Translation",
+      "released": "2003-10-03",
+      "runtime": 102,
+      "writer": "Sofia Coppola",
+      "plot": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
+      "language": "English, Japanese, German, French",
+      "country": "USA, Japan",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_SX300.jpg",
+      "imdb_rating": 77,
+      "metacritic": 89,
+      "rotten_tomatoes": 95,
+      "avg_rating": 87,
+      "genre": ["Drama", "Comedy"],
+      "director": ["Sofia Coppola"],
+      "actors": [
+        "Scarlett Johansson",
+        "Bill Murray",
+        "Akiko Takeshita",
+        "Kazuyoshi"
+      ],
+      "ondemand": []
+    },
+    {
       "imdbid": "tt5895028",
       "title": "13th",
       "released": "2016-10-07",
