@@ -86,7 +86,7 @@
       ]
     }
   ],
-  "movie": [
+  "movie/*": [
     {
       "imdbid": "tt0477348",
       "title": "No Country For Old Men",
