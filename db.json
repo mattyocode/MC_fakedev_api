@@ -293,46 +293,6 @@
       ]
     },
     {
-      "imdbid": "tt0405094",
-      "title": "The Lives of Others",
-      "released": "2007-03-30",
-      "runtime": 137,
-      "writer": "Florian Henckel von Donnersmarck",
-      "plot": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
-      "language": "German",
-      "country": "Germany, France",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SX300.jpg",
-      "imdb_rating": 84,
-      "metacritic": 89,
-      "rotten_tomatoes": 93,
-      "avg_rating": 89,
-      "genre": ["Drama", "Crime"],
-      "director": ["Florian Henckel Von Donnersmarck"],
-      "actors": [
-        " Martina Gedeck",
-        "Ulrich Mühe",
-        "Sebastian Koch",
-        "Ulrich Tukur"
-      ],
-      "ondemand": [
-        {
-          "id": 1642,
-          "service": "iTunes",
-          "url": "https://itunes.apple.com/gb/movie/the-lives-of-others/id342031480"
-        },
-        {
-          "id": 1643,
-          "service": "Google Play",
-          "url": "https://play.google.com/store/movies/details/The_Lives_Of_Others?gl=GB&hl=en&id=-gDGvSY91WY"
-        },
-        {
-          "id": 1644,
-          "service": "Amazon Instant Video",
-          "url": "https://watch.amazon.co.uk/detail?asin=B00FCG3OBO"
-        }
-      ]
-    },
-    {
       "imdbid": "tt5895028",
       "title": "13th",
       "released": "2016-10-07",
