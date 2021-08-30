@@ -249,50 +249,6 @@
       "ondemand": []
     },
     {
-      "imdbid": "tt0266543",
-      "title": "Finding Nemo",
-      "runtime": 100,
-      "writer": "Andrew Stanton, Bob Peterson, David Reynolds",
-      "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
-      "language": "English",
-      "country": "United States",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-      "imdb_rating": 81,
-      "metacritic": 90,
-      "rotten_tomatoes": 99,
-      "avg_rating": 90,
-      "genre": ["Comedy", "Adventure", "Animation"],
-      "director": ["Andrew Stanton", "Lee Unkrich"],
-      "actors": ["Albert Brooks", "Ellen Degeneres", "Alexander Gould"],
-      "ondemand": [
-        {
-          "service": "iTunes",
-          "id": "9998",
-          "url": "https://itunes.apple.com/gb/movie/finding-nemo/id255295077"
-        },
-        {
-          "service": "Google Play",
-          "id": "9997",
-          "url": "https://play.google.com/store/movies/details/Finding_Nemo?gl=GB&hl=en&id=uJi6vsD2-as"
-        },
-        {
-          "service": "Amazon Prime Video",
-          "id": "9996",
-          "url": "https://www.amazon.co.uk/Finding-Nemo-Alison-Janney/dp/B00H36BLVG/ref=sr_1_3?crid=1ZO4SDFKBGYE4&dchild=1&keywords=finding+nemo&qid=1624641061&sprefix=finding+ne%2caps%2c343&sr=8-3"
-        },
-        {
-          "service": "Amazon Instant Video",
-          "id": "9995",
-          "url": "https://watch.amazon.co.uk/detail?asin=B07Y3ZVYDN"
-        },
-        {
-          "service": "Disney+",
-          "id": "9995",
-          "url": "https://www.disneyplus.com/movies/finding-nemo/5Gpj2XqF7BV2"
-        }
-      ]
-    },
-    {
       "imdbid": "tt5895028",
       "title": "13th",
       "released": "2016-10-07",
