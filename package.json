@@ -7,6 +7,6 @@
     "json-server": "^0.16.3"
   },
   "scripts": {
-    "json:server": "json-server --watch db.json --routes routes.json"
+    "json:server": "json-server --watch db.json --id imdbid --routes routes.json"
   }
 }
