@@ -1,3 +1,3 @@
 {
-  "/api/movie/:imdbid": "/movies/:imdbid"
+  "/movie/:imdbid": "/movies/:imdbid"
 }
