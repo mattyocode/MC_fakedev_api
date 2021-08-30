@@ -333,46 +333,6 @@
       ]
     },
     {
-      "imdbid": "tt3783958",
-      "title": "La La Land",
-      "released": "2016-12-25",
-      "runtime": 128,
-      "writer": "Damien Chazelle",
-      "plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
-      "language": "English, Cantonese",
-      "country": "USA, Hong Kong",
-      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg",
-      "imdb_rating": 80,
-      "metacritic": 94,
-      "rotten_tomatoes": 91,
-      "avg_rating": 88,
-      "genre": ["Drama", "Comedy", "Romance", "Music", "Musical"],
-      "director": ["Damien Chazelle"],
-      "actors": ["Ryan Gosling", "Emma Stone", "Amiée Conn", "Terry Walters"],
-      "ondemand": [
-        {
-          "id": 878,
-          "service": "iTunes",
-          "url": "https://itunes.apple.com/gb/movie/la-la-land/id1179249419"
-        },
-        {
-          "id": 879,
-          "service": "Google Play",
-          "url": "https://play.google.com/store/movies/details/La_La_Land?gl=GB&hl=en&id=E8tfq2fKFvY"
-        },
-        {
-          "id": 880,
-          "service": "Amazon Prime Video",
-          "url": "https://watch.amazon.co.uk/detail?asin=B082P4DX2Z"
-        },
-        {
-          "id": 881,
-          "service": "Amazon Instant Video",
-          "url": "https://watch.amazon.co.uk/detail?asin=B082P4DX2Z"
-        }
-      ]
-    },
-    {
       "imdbid": "tt5895028",
       "title": "13th",
       "released": "2016-10-07",
