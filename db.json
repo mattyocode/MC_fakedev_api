@@ -87,7 +87,7 @@
       "ondemand_img": "https://utellyassets9-4.imgix.net/api/Images/80c2eeb74543729a3ad25190ce226044/Redirect?fit=crop&auto=compress&crop=faces,top"
     }
   ],
-  "movie/123": [
+  "movie": [
     {
       "imdbid": "tt0477348",
       "title": "No Country For Old Men",
